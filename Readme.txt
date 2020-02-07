@@ -4,6 +4,6 @@ web quản lý tên tuổi thành viên
 -sửa thông tin thành viên
 -xóa thành viên
 
--alo,có bị conflict ko???
+-alo,có bị conflict ko??? test conflict part 2
 
 -dòng này viết trên github  
